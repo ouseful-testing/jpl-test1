@@ -1,8 +1,7 @@
 {
     "XeusPythonEnv": {
         "packages": [
-            "folium",
-            "handcalcs"
+            "folium"
         ]
     }
 }
